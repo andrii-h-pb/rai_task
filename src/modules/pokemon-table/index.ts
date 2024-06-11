@@ -1,0 +1,1 @@
+export { PokemonsTable } from './PokemonsTable';
